@@ -1,11 +1,13 @@
 fun main() {
     val firstSong = Song(
         title = "One",
-        artist = "Metallica"
+        artist = "Metallica",
+        duration = 10
     )
     val secondSong = Song(
         title = "After Dark",
-        artist = "Mr.Kitty"
+        artist = "Mr.Kitty",
+        duration = 5
     )
     val thirdSong = Song(
         title = "I really want to stay at your house",
